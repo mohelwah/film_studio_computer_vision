@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/mohelwah/film_studio_computer_vision/actions/workflows/main.yml/badge.svg)](https://github.com/mohelwah/film_studio_computer_vision/actions/workflows/main.yml)
+
 # film_studio_computer_vision
 
 ## Prepare aws code9:
